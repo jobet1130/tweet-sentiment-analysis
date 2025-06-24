@@ -1,0 +1,10 @@
+numpy==2.3.1           # Latest stable release as of Jun 21, 2025 :contentReference[oaicite:1]{index=1}
+pandas==2.3.0          # Latest stable release as of Jun 5, 2025 :contentReference[oaicite:2]{index=2}
+nltk==3.9.1            # Latest on PyPI :contentReference[oaicite:3]{index=3}
+scikit-learn==1.7.0    # Latest stable ML library as of Jun 5, 2025 :contentReference[oaicite:4]{index=4}
+matplotlib             # For plots and visualizations
+seaborn                # High-level API for statistical graphics
+notebook               # Jupyter notebook support
+ipykernel              # Kernel for notebook execution
+streamlit              # Optional web app for sentiment prediction
+regex                  # Advanced regular expressions for preprocessing
