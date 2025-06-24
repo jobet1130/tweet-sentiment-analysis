@@ -40,9 +40,9 @@ coverage.xml
 
 # Data and models (but keep folder)
 data/
+
 # Models
-models/*
-!models/.gitkeep
+models/
 
 # Environment files
 .env
