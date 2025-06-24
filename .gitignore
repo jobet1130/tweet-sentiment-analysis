@@ -1,0 +1,69 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Python virtual environments
+.venv/
+env/
+venv/
+ENV/
+
+# Packages
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Logs
+*.log
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.cache
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Jupyter runtime
+*.nbconvert.ipynb
+*.nbconvert/
+
+# Data and models (but keep folder)
+data/
+# Models
+models/*
+!models/.gitkeep
+
+# Environment files
+.env
+.env.*
+
+# IDE settings
+.vscode/
+.idea/
+
+# Streamlit cache and history
+.streamlit/
+.streamlit/cache/
+.streamlit/config.toml
+
+# Reports and figures
+reports/figures/*
+!reports/figures/.gitkeep
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Mac/Linux hidden files
+*.swp
